@@ -38,6 +38,8 @@ This is a solution to the [Blog Preview Card challenge on Frontend Mentor](https
 
 I had a much better time with this project than the first one. The challenge is always getting the formating just right and figuring out how to center the main image. I adjusted the main container size and added the padding, which seemed to work. 
 
+I alos learned how to add hover states with CSS.
+
 ### Continued development
 
 I want to get more comfortable and faster with laying out a web page and content. 
