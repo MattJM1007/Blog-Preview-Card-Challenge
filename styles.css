@@ -70,3 +70,11 @@ footer{
     height: 32px;
     margin-right: 12px;
 }
+
+.title:hover {
+    color: hsl(47, 88%, 63%);
+}
+
+main:hover{
+    filter: drop-shadow(12px 12px #000000);
+}
