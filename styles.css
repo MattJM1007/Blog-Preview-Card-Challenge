@@ -50,12 +50,13 @@ main{
 .title{
     margin-bottom: 12px;
     font-size: 24px;
+    font-weight: 800;
 }
 
 .description{
     color: hsl(0, 0%, 50%);
     font-size: 16px;
-    font-weight: lighter;
+    font-weight: 400;
     line-height: 1.5;
 }
 
